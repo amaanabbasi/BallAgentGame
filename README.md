@@ -5,7 +5,7 @@ Unity ML Agent to move a ball such as it hit a target. Agentt is rewarded when i
 
 
 # Requirements
-Unity - 2019.3.f1
-Anaconda 
-Ml agents -  release 7
-python - 3.7 (Note versions above 3.7 doesn't support tensorflow as of now.)
+- Unity - 2019.3.f1
+- Anaconda 
+- Ml agents -  release 7
+- python - 3.7 (Note versions above 3.7 doesn't support tensorflow as of now.)
