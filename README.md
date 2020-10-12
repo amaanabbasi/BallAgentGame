@@ -5,6 +5,7 @@ Unity ML Agent to move a ball such as it hit a target. Agentt is rewarded when i
 
 
 # Requirements
+Follow this [link](https://learn.unity.com/tutorial/ml-agents-and-anaconda-setup?uv=2019.3&projectId=5e2ebcb5edbc2a18109645ca#5e2ebf39edbc2a7ed1705ff0)  for installing ml-agents and anaconda.
 - Unity - 2019.3.f1
 - Anaconda 
 - Ml agents -  release 7
