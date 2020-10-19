@@ -9,4 +9,4 @@ Follow this [link](https://learn.unity.com/tutorial/ml-agents-and-anaconda-setup
 - Unity - 2019.3.f1
 - Anaconda 
 - Ml agents -  release 7
-- python - 3.7 (Note versions above 3.7 doesn't support tensorflow as of now.)
+- python - 3.6 (Note versions above 3.7 doesn't support tensorflow as of now.)
